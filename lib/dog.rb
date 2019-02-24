@@ -16,7 +16,6 @@ class Dog
   def bark
     puts "woof!"
   end 
-  
 end
 
-Write a method, .bark, that puts "woof!" when called on an instance of Dog.
+#method, .bark, that puts "woof!" when called on an instance of Dog.
