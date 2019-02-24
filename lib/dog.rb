@@ -10,6 +10,8 @@ class Dog
   end 
 end 
 
+#getter method, .name that returns an individual dog's name.
+
 class Dog
   def bark
     puts "woof!"
